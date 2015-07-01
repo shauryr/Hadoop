@@ -1,2 +1,0 @@
-# Hadoop
-My Projects 
