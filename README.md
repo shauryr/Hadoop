@@ -3,4 +3,4 @@ My Projects
 
 I add my Hadoop Projects here.
 
--Page Rank of huge graphs (edge-lists input) using Hadoop.
+-Page Rank of nodes in very large graphs (edge-lists input) using Hadoop.
